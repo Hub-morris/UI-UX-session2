@@ -1,4 +1,4 @@
-# UI/UX Track: Lesson 3 - Wireframing & Prototyping
+# UI/UX Track: Lesson 2 - Wireframing & Prototyping
 
 **Computer Society of Kirinyaga (CSK)**
 **Instructor:** Eng Morris
